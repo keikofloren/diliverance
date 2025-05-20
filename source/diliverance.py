@@ -22,7 +22,7 @@ def events():
 def team():
     return render_template('team.html')
 
-@app.route('/donate')
+@app.route('/contribute')
 def donate():
     return render_template('donate.html')
 
