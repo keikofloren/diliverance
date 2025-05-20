@@ -2,3 +2,5 @@
 venv
 
 .vercel
+
+**/.DS_Store
